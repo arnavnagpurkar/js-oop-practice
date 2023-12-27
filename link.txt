@@ -1,0 +1,2 @@
+List to all the questions and solutions here
+https://www.w3resource.com/javascript-exercises/oop/index.php
